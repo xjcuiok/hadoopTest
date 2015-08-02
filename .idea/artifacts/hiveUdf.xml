@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hiveUdf">
+    <output-path>$PROJECT_DIR$/out/artifacts/hiveUdf</output-path>
+    <root id="archive" name="hiveUdf.jar">
+      <element id="module-output" name="hadoopTest" />
+    </root>
+  </artifact>
+</component>
