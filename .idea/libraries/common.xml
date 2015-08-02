@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/common" />
+      <root url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/common/lib" />
+      <root url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/hdfs" />
+      <root url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/mapreduce" />
+      <root url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/common/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/hdfs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/mapreduce" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../temp/tmp/hadoop_jar/yarn" recursive="false" />
+  </library>
+</component>
